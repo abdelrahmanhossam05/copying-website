@@ -64,8 +64,8 @@ nav {
 
 .landing__content {
     display: flex;
-    margin: 0 auto;
     padding: 96px 0;
+    margin: 0 auto;
 }
 
 .landing__text {
